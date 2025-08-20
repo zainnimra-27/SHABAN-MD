@@ -57,7 +57,7 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
 
 -------------
 
-<a href='https://shaban-md-pair2.zone.id/' target="_blank">
+<a href='https://armed-analiese-shabansobxmd-35a86be5.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
