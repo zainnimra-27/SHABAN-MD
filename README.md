@@ -50,37 +50,16 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
  <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
 
  -------------
-  
-<a href='https://solar-linnell-shabansobxmd-409a0aff.koyeb.app/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
 
--------------
-
-<a href='https://armed-analiese-shabansobxmd-35a86be5.koyeb.app/' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-
--------------
-
-## _📡 DEPLOYMENT_
-
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN45/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=MRSHABAN45/SHABAN-MD" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://shabanmd.zone.id/" target="_blank"><img src="https://img.shields.io/badge/Shaban MD Site-CC00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=000000"/></a></td>
-    </tr>
-  </table>
-</div>
+<a href="https://shabanmd.zone.id/">
+  <img 
+    title="DEPLOY-NOW" 
+    src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-brightgreen?style=for-the-badge&logo=vercel&logoColor=black"
+    width="300" 
+    height="40.45"
+    alt="Deploy with Vercel"
+  />
+</a>
 
 -------------
 
