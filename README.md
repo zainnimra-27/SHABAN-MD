@@ -49,14 +49,20 @@ href="https://github.com/MRSHABAN45/SHABAN-MD/graphs/commit-activity"><img heigh
  <p align="lift">
  <a href="https://github.com/MRSHABAN45/SHABAN-MD/fork"><img title="SHABAN-MD" src="https://img.shields.io/badge/FORK-SHABAN MD-h?color=008000&style=for-the-badge&logo=github"></a>
 
- -------------
+  -------------
+  
+<a href='https://solar-linnell-shabansobxmd-409a0aff.koyeb.app/' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE-008080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a></br>
+
+-------------
 
 <a href="https://shabanmd.zone.id/">
   <img 
     title="DEPLOY-NOW" 
-    src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-brightgreen?style=for-the-badge&logo=vercel&logoColor=black"
-    width="300" 
-    height="40.45"
+    src="https://img.shields.io/badge/DEPLOY--NOW-Click%20to%20deploy-9400D3?style=for-the-badge&logo=vercel&logoColor=blue"
+    width="500" 
+    height="30.35"
     alt="Deploy with Vercel"
   />
 </a>
